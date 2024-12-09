@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwERspsN2GpWmw3hie9vmQ7CMnIvy6THmbBY6+1LJV0xifEMwhbFPWWQ0Mv5Ajo0WGoWL6FTkpGhF6iLNU6g2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2006S\\Desktop\\Projects\\DemoObserverPattern\\DemoObserverPattern\\DemoObserverPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2006S\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\2006S\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
