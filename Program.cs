@@ -21,6 +21,14 @@ public class Program
         Thread.Sleep(1000);
         player.Action = PlayerAction.Attack;
         playerTracker.OnNext(player.Action);
-        Thread.Sleep(100000);
+
+        Thread.Sleep(1000);
+        player.Action = PlayerAction.Jump;
+        playerTracker.OnNext(player.Action);
+        Thread.Sleep(1000);
+        player.Action = PlayerAction.Roll;
+        playerTracker.OnNext(player.Action);
+        Thread.Sleep(1000);
+
     }
 }

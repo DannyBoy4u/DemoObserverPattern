@@ -25,9 +25,11 @@ namespace DemoObserverPattern.Observers;
                     break;
 
                 case PlayerAction.Jump:
+                PlayAudioFile("Jump.wav");
                     break;
 
                 case PlayerAction.Roll:
+                PlayAudioFile("Roll.wav");
                     break;
             }
         }

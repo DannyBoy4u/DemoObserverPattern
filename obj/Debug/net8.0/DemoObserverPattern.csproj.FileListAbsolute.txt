@@ -17,3 +17,4 @@ C:\Users\2006S\Desktop\Projects\DemoObserverPattern\DemoObserverPattern\obj\Debu
 C:\Users\2006S\Desktop\Projects\DemoObserverPattern\DemoObserverPattern\obj\Debug\net8.0\DemoObserverPattern.genruntimeconfig.cache
 C:\Users\2006S\Desktop\Projects\DemoObserverPattern\DemoObserverPattern\obj\Debug\net8.0\ref\DemoObserverPattern.dll
 C:\Users\2006S\Desktop\Projects\DemoObserverPattern\DemoObserverPattern\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\2006S\Desktop\Projects\DemoObserverPattern\DemoObserverPattern\obj\Debug\net8.0\DemoObserverPattern.sourcelink.json
